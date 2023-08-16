@@ -1,4 +1,4 @@
-# Prework - *aBackgroud Colorization*
+# Prework - *Backgroud Colorization*
 
 Submitted by: **Thanh Pham**
 
@@ -17,24 +17,34 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/c0Tci7K.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with GIPHY CAPTURE  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+### GoodNotes:
+* Import PDF document.
+* Highlight and modify highlight.
+* Create outline
+### Reddit
+* Minimize chat thread.
+* Built-in direct message
+### Messenger
+* Customizable chat UI
+* Personal avatar
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a hard time to get used to the macOS and the XCode UI. Main problem came from UI setting and adjustment. For example: increase the font and symbol. Furthermore, learning swift is also not easy with many syntax and ways to connect the element to the code.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Thanh Pham]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
