@@ -1,4 +1,4 @@
-# Prework - *Backgroud Colorization*
+# Prework - *aBackgroud Colorization*
 
 Submitted by: **Thanh Pham**
 
