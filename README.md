@@ -1,8 +1,8 @@
-# Prework - *Backgroud Colorization*
+# Prework - *Fun Colorization*
 
 Submitted by: **Thanh Pham**
 
-**Background Colorization** is an app that allows the users to randomly change the background color by clicking the "Color BG!" button. 
+**Fun Colorization** is an app that allows the users to randomly change the background color and text color by clicking the "Color BG!" and "Color Text!" buttons, respectlive. 
 
 Time spent: **1** hours spent in total
 
